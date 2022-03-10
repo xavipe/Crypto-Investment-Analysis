@@ -7,7 +7,11 @@ The dataset we utilized for analysis can be found on Kaggle.
 
 ## Third Party Modules
 Numpy
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Plotly
