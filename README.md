@@ -1,5 +1,5 @@
 # Crypto-Investment-Analysis
-Winter 2022, ECE 143 Final Project
+Winter 2022, ECE 143 Final Project, Team 10
 ## Project Description
 
 + This project provides an overview of crypto market and illustrates some insights by data analysis
