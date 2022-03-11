@@ -10,6 +10,15 @@ Winter 2022, ECE 143 Final Project, Team 10
 
 The dataset we utilized for analysis can be found on [Kaggle](https://www.kaggle.com/c/g-research-crypto-forecasting/data).
 
+## File Structure
+Root:
+├─── Code
+│    "Final version.ipynb
+├─── Data
+│    asset_details.csv
+│Crypto Analysis and Forecasting.pdf
+│README.md
+
 ## How to Run Code
 
 After downloading the third party modules, please download or open the "Final version.ipynb" jupyter notebook in your favorite software (i.e., Anaconda) and run it. Please download/import the "train.csv" dataset from [Kaggle](https://www.kaggle.com/c/g-research-crypto-forecasting/data) before executing the code. I have added the "asset_details.csv" under the "Data" folder, but the "train.csv" dataset was too big to be directly included there.
