@@ -12,28 +12,12 @@ The dataset we utilized for analysis can be found on [Kaggle](https://www.kaggle
 
 ## File Structure
 Root:
-Root:
-├─── ML Model
-*│    Hao_ML.py
-├─── Visualizations
-│    Haoliang_Visualizations.py
-│    Sri_Visualizations.py
-│    Yuqi_Visualizations.py
-│    cmap.dat
-│Presentation_Slides.pdf
-│Presentation_Visuals.ipynb
-│README.md
-├─── Code
-
-│    "Final version.ipynb
-
-├─── Data
-
-│    asset_details.csv
-
-│Crypto Analysis and Forecasting.pdf
-
-│README.md
+├─── Code<br/>
+│    "Final version.ipynb<br/>
+├─── Data<br/>
+│    asset_details.csv<br/>
+│Crypto Analysis and Forecasting.pdf<br/>
+│README.md<br/>
 
 ## How to Run Code
 
