@@ -11,7 +11,7 @@ Winter 2022, ECE 143 Final Project, Team 10
 The dataset we utilized for analysis can be found on [Kaggle](https://www.kaggle.com/c/g-research-crypto-forecasting/data).
 
 ## File Structure
-Root:
+Root:<br/>
 ├─── Code<br/>
 │    "Final version.ipynb<br/>
 ├─── Data<br/>
