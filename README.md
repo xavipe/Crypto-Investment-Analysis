@@ -23,6 +23,8 @@ Root:<br/>
 
 After downloading the third party modules, please download or open the "Final version.ipynb" jupyter notebook in your favorite software (i.e., Anaconda) and run it. Please download/import the "train.csv" dataset from [Kaggle](https://www.kaggle.com/c/g-research-crypto-forecasting/data) before executing the code. I have added the "asset_details.csv" under the "Data" folder, but the "train.csv" dataset was too big to be directly included there.
 
+And note that: You need at least 4 GB RAM to run this code!!!
+
 ## Third Party Modules
 + Numpy
 + Pandas
