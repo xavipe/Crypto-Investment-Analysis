@@ -32,3 +32,6 @@ And note that: You need at least 4 GB RAM to run this code!!!
 + Plotly
 + Seaborn
 + Statsmodels
++ yfinance
++ alpha_vantage 
++ ta
