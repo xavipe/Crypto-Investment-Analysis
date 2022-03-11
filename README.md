@@ -12,9 +12,9 @@ The dataset we utilized for analysis can be found on [Kaggle](https://www.kaggle
 
 ## File Structure
 Root:
-+ ├─── Code
+├ ─── Code
 │    "Final version.ipynb
-├─── Data
+├ ─── Data
 │    asset_details.csv
 │Crypto Analysis and Forecasting.pdf
 │README.md
