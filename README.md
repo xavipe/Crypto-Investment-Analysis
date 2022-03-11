@@ -12,7 +12,14 @@ The dataset we utilized for analysis can be found on [Kaggle](https://www.kaggle
 
 ## File Structure
 Root:
-
+.
+├── build                   # Compiled files (alternatively `dist`)
+├── docs                    # Documentation files (alternatively `doc`)
+├── src                     # Source files (alternatively `lib` or `app`)
+├── test                    # Automated tests (alternatively `spec` or `tests`)
+├── tools                   # Tools and utilities
+├── LICENSE
+└── README.md
 ├─── Code
 
 │    "Final version.ipynb
