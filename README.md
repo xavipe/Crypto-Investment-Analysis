@@ -12,7 +12,7 @@ The dataset we utilized for analysis can be found on [Kaggle](https://www.kaggle
 
 ## File Structure
 Root:
-├─── Code
++ ├─── Code
 │    "Final version.ipynb
 ├─── Data
 │    asset_details.csv
