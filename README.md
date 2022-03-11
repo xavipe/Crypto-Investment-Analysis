@@ -14,8 +14,6 @@ The dataset we utilized for analysis can be found on [Kaggle](https://www.kaggle
 Root:
 
 ├─── Code
-|
-|
 
 │    "Final version.ipynb
 
