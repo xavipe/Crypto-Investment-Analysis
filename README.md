@@ -12,14 +12,17 @@ The dataset we utilized for analysis can be found on [Kaggle](https://www.kaggle
 
 ## File Structure
 Root:
-.
-├── build                   # Compiled files (alternatively `dist`)
-├── docs                    # Documentation files (alternatively `doc`)
-├── src                     # Source files (alternatively `lib` or `app`)
-├── test                    # Automated tests (alternatively `spec` or `tests`)
-├── tools                   # Tools and utilities
-├── LICENSE
-└── README.md
+Root:
+├─── ML Model
+│    Hao_ML.py
+├─── Visualizations
+│    Haoliang_Visualizations.py
+│    Sri_Visualizations.py
+│    Yuqi_Visualizations.py
+│    cmap.dat
+│Presentation_Slides.pdf
+│Presentation_Visuals.ipynb
+│README.md
 ├─── Code
 
 │    "Final version.ipynb
